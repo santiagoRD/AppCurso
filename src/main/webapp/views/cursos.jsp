@@ -1,9 +1,3 @@
-<%-- 
-    Document   : Menu
-    Created on : 02-may-2018, 18:37:10
-    Author     : ANDRESCOGI
---%>
-
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 

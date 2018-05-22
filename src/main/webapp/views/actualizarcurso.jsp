@@ -1,8 +1,3 @@
-<%-- 
-    Document   : actualizarcurso
-    Created on : 20/05/2018, 07:40:30 PM
-    Author     : SANTIAGO
---%>
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html lang="en">

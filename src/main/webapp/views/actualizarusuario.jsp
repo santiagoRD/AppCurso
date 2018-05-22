@@ -1,8 +1,3 @@
-<%-- 
-    Document   : actualizarusuario
-    Created on : 20/05/2018, 07:36:49 PM
-    Author     : SANTIAGO
---%>
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html lang="en">
